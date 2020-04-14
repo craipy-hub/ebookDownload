@@ -1,3 +1,15 @@
-# ebookDownload
-这是一个js脚本文件，运行于tampermonkey浏览器插件中
->
+# EbookDownload
+
+这是一个浏览器脚本，运行于浏览器插件tampermonkey中。能够下载高校教参资料库中的电子教材
+
+
+
+使用步骤：
+
+1. 导入脚本
+
+2. 通过校园vpn登录进入高校教参资料库
+
+   我是中国农业大学的校园vpn。用来演示
+
+   
