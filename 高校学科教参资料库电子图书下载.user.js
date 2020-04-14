@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  当前使用的是中国农大的vpn进入网站并下载。如果直接进入 高校学科教参资料库，权限不够 无法下载
 // @author       Craipy
+// @license      GPL License
 // @match        http://cebxolhz-apabi-com.vpn.cau.edu.cn:8118/*
 // @grant        none
 // ==/UserScript==
